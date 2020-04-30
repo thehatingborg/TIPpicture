@@ -37,3 +37,9 @@ The GUI runs on JAVA I advise to use version 1.8. The GUI will ask you to provid
 Note that for every new photo the GUI needs to be executed again. Further to create a file which can be loaded and read by the tiptoi pen 
 the \tttool by Joachim Breitner is needed (https://github.com/entropia/tip-toi-reveng)
 
+
+#Files#
+TIPpicture.exe: Program for the execution on Windows-
+tiptoipicture.jar: Program for execution on Windows and MAC.
+TiptoiPicture folder: Java scripts of the programm
+Photo: Voice files
